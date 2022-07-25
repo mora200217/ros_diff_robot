@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/Users/amorales/miniconda3/envs/robotics/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

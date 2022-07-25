@@ -1,0 +1,5 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/Users/amorales/miniconda3/envs/robotics/lib/python3.8/site-packages"
+    ]
+}
